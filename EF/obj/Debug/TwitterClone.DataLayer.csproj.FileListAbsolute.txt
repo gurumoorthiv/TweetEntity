@@ -1,0 +1,17 @@
+C:\Users\436812\Source\Workspaces\MyFirstProject\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\TwitterClone.DataLayer.dll.config
+C:\Users\436812\Source\Workspaces\MyFirstProject\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\TwitterClone.DataLayer.dll
+C:\Users\436812\Source\Workspaces\MyFirstProject\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\TwitterClone.DataLayer.pdb
+C:\Users\436812\Source\Workspaces\MyFirstProject\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\436812\Source\Workspaces\MyFirstProject\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\436812\Source\Workspaces\MyFirstProject\TwitterClone_FSD\TwitterClone.DataLayer\obj\Debug\TwitterClone.DataLayer.dll
+C:\Users\436812\Source\Workspaces\MyFirstProject\TwitterClone_FSD\TwitterClone.DataLayer\obj\Debug\TwitterClone.DataLayer.pdb
+C:\Users\436812\Source\Workspaces\MyFirstProject\TwitterClone_FSD\TwitterClone.DataLayer\obj\Debug\TwitterClone.DataLayer.csprojResolveAssemblyReference.cache
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\TwitterClone.DataLayer.dll.config
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\TwitterClone.DataLayer.dll
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\TwitterClone.DataLayer.pdb
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\EntityFramework.dll
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\EntityFramework.xml
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\obj\Debug\TwitterClone.DataLayer.dll
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\obj\Debug\TwitterClone.DataLayer.pdb
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Mani\TwitterClone-master1\TwitterClone-master\TwitterClone_FSD\TwitterClone.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
